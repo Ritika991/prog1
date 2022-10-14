@@ -1,2 +1,2 @@
-# prog1
+website
 first repository
